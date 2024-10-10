@@ -1,0 +1,11 @@
+golang-webpki-org-jsoncanonicalizer for Debian
+---------------------------------------------
+
+The sources were created by copying sources from
+https://github.com/cyberphone/json-canonicalization/tree/master/go
+
+The github repository contains implementation for a number of other languages
+that are not necessary at this point
+
+ -- Reinhard Tartler <siretart@tauware.de>, Sun, 12 Nov 2023 20:17:21 -0500
+

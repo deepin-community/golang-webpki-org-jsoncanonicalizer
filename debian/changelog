@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-webpki-org-jsoncanonicalizer (0.20210204-1.1) unstable; urgency=medium
 
-  * Initial release
+  * Non-maintainer upload.
+  * Add link for name used by rekor.  Closes: #1060820.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Simon Josefsson <simon@josefsson.org>  Thu, 18 Jan 2024 19:52:58 +0100
+
+golang-webpki-org-jsoncanonicalizer (0.20210204-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sun, 12 Nov 2023 20:47:06 -0500
