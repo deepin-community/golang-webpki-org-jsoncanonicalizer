@@ -1,0 +1,16 @@
+From: Reinhard Tartler <siretart@tauware.de>
+Date: Sun, 12 Nov 2023 20:44:37 -0500
+X-Dgit-Generated: 0.20210204-1 387a0274353a30695190b0adc40a81203d54d0f2
+Subject: move test files around
+
+
+---
+
+diff --git a/test/verify-canonicalization.go b/test/canonicalization/verify.go
+similarity index 100%
+rename from test/verify-canonicalization.go
+rename to test/canonicalization/verify.go
+diff --git a/test/verify-numbers.go b/test/numbers/verify.go
+similarity index 100%
+rename from test/verify-numbers.go
+rename to test/numbers/verify.go

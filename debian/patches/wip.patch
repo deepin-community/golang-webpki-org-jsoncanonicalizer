@@ -1,0 +1,16 @@
+From: Reinhard Tartler <siretart@tauware.de>
+Date: Sun, 12 Nov 2023 20:31:01 -0500
+X-Dgit-Generated: 0.20210204-1 1334e5df341e9e2c64851210185a3ddc4624e1d5
+Subject: wip
+
+
+---
+
+diff --git a/webpki.org/jsoncanonicalizer/es6numfmt.go b/es6numfmt.go
+similarity index 100%
+rename from webpki.org/jsoncanonicalizer/es6numfmt.go
+rename to es6numfmt.go
+diff --git a/webpki.org/jsoncanonicalizer/jsoncanonicalizer.go b/jsoncanonicalizer.go
+similarity index 100%
+rename from webpki.org/jsoncanonicalizer/jsoncanonicalizer.go
+rename to jsoncanonicalizer.go
